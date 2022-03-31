@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\kiman\python\EE461L\hw6\server\venv"
+VIRTUAL_ENV="C:\Users\kiman\python\EE461L\hw6\cwk673-ee461l-hw6\server\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
